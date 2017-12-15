@@ -1,6 +1,16 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+
+# Indexes
+Here is a list of topics covered on the wiki. Click on a topic's name to see articles related to that topic.
+
+
+  {% for item in site.indexes %}
+
+      * [{{item.title}}]({{item.url}})
+
+  {% endfor %}
+
+[If you want RSS for some reason]({{{{ "/feed.xml" | relative_url }}}})
+</div>
