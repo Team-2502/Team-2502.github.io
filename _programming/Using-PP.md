@@ -4,6 +4,7 @@ title: Using Pure Pursuit
 category: Pure Pursuit
 ---
 
+##### WARNING: Pure Pursuit is `y`-oriented, while Motion Profiling is `x`-oriented
 
 Alright, so you want your robot to follow a path? That can be done in 3 easy steps!
 
@@ -33,7 +34,7 @@ in a `Paths` or `PathsConfig` class.
     - This is an `ImmutableVector2f` where the x-component represents left/right distance from the origin
     and the y-component represents the forward/backward distance from the origin
 
-    - In effect, the robot starts pointing in the direction of the positive y-axis
+    - In effect, the robot starts pointing in the direction of the positive y-axis, making Pure Pursuit `y`-oriented
 
 2. Max velocity
     - This is so that your robot doesn't go _too_ fast. If it did, it might slam into the field elements too hard and potentially cause damage.
