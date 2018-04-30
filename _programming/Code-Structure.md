@@ -20,4 +20,4 @@ Follow the existing format in `OI.java` in `com.team2502.<year>`
 
 # Autonomous
 
-There will be a package for autonomous "ingredients" and autonomous "recipies". In general, "ingredients" extend `Command`, while "recipes" extend `CommandGroup`.
+There will be a package for autonomous "ingredients" and autonomous "recipes". In general, "ingredients" extend `Command`, while "recipes" extend `CommandGroup`.
