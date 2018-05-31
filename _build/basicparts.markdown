@@ -9,17 +9,25 @@ Here is where we talk about basic parts, what they look like, and applications f
 Yes, even something as simple as tools need to be discussed. Crescent wrench, screwdriver, are all easy ones. But when you get into things like step and spade bits, vice (if you are the CMS tech ed teacher), deburer, side cutters, then it's where people become less familiar with them.
 * Wrenches
     * **NEVER USE CRESCENT WRENCHES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+        * They usually do not fit where you want them to and will round your nut.
 * Socket
 
 * Power Tools
-    * Drill Bit
+    * Hole drilling tools: These tools go with a drillbit.
+      * (Handheld) Drill: Drill holes quickly, at angles, or in tight spots
+      * Drill Press: Drill straight up-and down holes precisely
     * Reciprocating Saw
+      * A saw that goes back and forth. Sort of like a jigsaw on steroids.
     * Jigsaw
+      * A tiny, bandsaw-sized blade that goes back and forth. Can make wavy cuts.
     * Circular Saw
+      * A handheld saw with a circular blade. Makes straight cuts.
     * Angle Grinder
-    * Drill Press
+      * A very versatile tool. You can change the discs in it to either sand/polish/grind at or cut things
     * Bandsaw
+      * A small saw blade that can be used to make wavy cuts. 
     * Miter Saw
+      * Like a circular saw but is not handheld. Only goes up and down.
 
 ## Bearings
 If we were to stick a hex shaft in a hole and spin it, it would become round. Bearings decrease the friction of rotating objects and prevent our hex shaft from becoming a round shaft.
@@ -50,8 +58,10 @@ Everything you would want to know about the shafts we mainly use in the room. Ev
 When you stretch it, it wants to go back to being unstretched, creating a pulling force.
 
 ## Poly cord and Pulleys
+Used to transfer force. Usually, it is rotational, but using a winch, linear force can also be transferred. 
 
 ## Gussets/Brackets
+Used to attach two pieces of metal together. Usually accompanied by rivets or bolts
 
 ## Poly Carbonate
 This is basically plastic. 
