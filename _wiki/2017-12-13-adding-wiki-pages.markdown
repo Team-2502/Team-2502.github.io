@@ -28,9 +28,7 @@ You will need to edit the title.
 
 Additionally, edit the category. If your programming page is about how to do something related to WPILib, change the line with categories to `category: WPILib`. If your build page is related to design, change it to `category: Design`. Do your best to keep your page within the existing categories. The category will let the index automatically sort your wiki page. Use the category field to sensibly *categorize* your pages.
 
-6\. Once you're done with your page, save, commit and push to the `new-pages` branch
-
-7\. Make a merge request to `master` branch
+7\. Commit your change to the `master` branch
 
 8\. Once it is accepted, your page will be visible on the wiki!
 
