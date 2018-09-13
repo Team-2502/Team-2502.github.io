@@ -37,13 +37,18 @@ If you pretend the robot is a bicycle and install a derailleur, you are official
 There are 2 kinds of chain: #25 pitch and #35 pitch. #25 pitch chain is smaller, weaker, and lighter, while #35 pitch is larger, stronger, and heavier. Use #35 pitch chain in applications where strength 
 matters, such as the drivetrain and climbers.
 
-Keep in mind that you must have an integer number of chain links in order to have properly tensioned chain. By properly tensioning your chain, you ensure that there is little to no backlash in the system (backlash is when you can move 1 bit without moving the other bit when the 2 bits are connected).
+Keep in mind that you must have an integer number of chain links in order to have properly tensioned chain. By properly tensioning your chain, you ensure that there is little to no backlash in the system (backlash is when you can rotate 1 sprocket/gear without moving the other sprocket/gear when the two are connected). To calculate the number of chain links you will need to use, you can use the following equation.  
 
 
 ![Chain Equation](https://i.imgur.com/rIH5xBA.png)
 
 
-In this equation, C is the number of chain links you will need, E1 is the chain pitch in inches (for #35, it is 0.375 inches, for #25, it is 0.25 inches), E2 is the number of teeth on one sprocket, E3 is the number of teeth on the other sprocket, and d is the center-to-center distance between the sprockets.
+In this equation, C is the number of chain links you will need, E1 is the chain pitch in inches (for #35, it is 0.375 inches, for #25, it is 0.25 inches), E2 is the number of teeth on one sprocket, E3 is the number of teeth on the other sprocket, and d is the center-to-center distance between the sprockets. Generally, you will 
+
+1. Put the sprockets down in the CAD somewhere
+1. Compute the chain equation
+1. Solve for d when C is rounded up/down
+1. Move the sprockets in the CAD
 
 
 
