@@ -67,7 +67,7 @@ Do your best to keep your page within the existing categories.
 1. After a short period, your page will be visible on the wiki!
 
 
-If you want to add images to your wiki page, [follow these instructions]({{"_wiki/adding-images-to-wiki-pages.markdown" | absolute_url}}).
+If you want to add images to your wiki page, [follow these instructions](\{\{"_wiki/adding-images-to-wiki-pages.markdown" | absolute_url}}).
 We use a program called Jekyll for our wiki. Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
