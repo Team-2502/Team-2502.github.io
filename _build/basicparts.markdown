@@ -6,17 +6,19 @@ category: "Getting Started:"
 Here is where we talk about basic parts, what they look like, and applications for them. Read through this, and then use it as a reference, because these parts will be referred to a lot in the wiki.
 
 ## Tools
-Yes, even something as simple as tools need to be discussed. Crescent wrench, screwdriver, are all easy ones. But when you get into things like step and spade bits, vice (if you are the CMS tech ed teacher), deburer, side cutters, then it's where people become less familiar with them.
+Yes, even something as simple as tools need to be discussed. Crescent wrench, screwdriver, are all easy ones. But when you get into things like step and spade bits, vice (if you are the CMS tech ed teacher), deburrer, side cutters, then it's where people become less familiar with them.
 * Wrenches
     * **NEVER USE CRESCENT WRENCHES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
         * They usually do not fit where you want them to and will round your nut.
 * Socket
+   * Like a wrench. Usually comes attached to a ratchet device or drill.
 
 * Power Tools
     * Hole drilling tools: These tools go with a drillbit.
       * (Handheld) Drill: Drill holes quickly, at angles, or in tight spots
       * Drill Press: Drill straight up-and down holes precisely
-    * Reciprocating Saw
+    * Reciprocating Saw 
+      * Also known as a "recip" or "sawzall"
       * A saw that goes back and forth. Sort of like a jigsaw on steroids.
     * Jigsaw
       * A tiny, bandsaw-sized blade that goes back and forth. Can make wavy cuts.
