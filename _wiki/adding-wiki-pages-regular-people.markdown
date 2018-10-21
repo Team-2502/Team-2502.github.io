@@ -50,9 +50,9 @@ The file name will not be shown to people looking at the wiki.
     ---
     {% endhighlight %}
 
-    You can copy-paste the above text into the big textbox like shown.
+   You can copy-paste the above text into the big textbox like shown.
     
-    ![Image of front-matter in big text box]({{ "assets/insert-front-matter-create-wiki-page.png" | absolute_url }})
+   ![Image of front-matter in big text box]({{ "assets/insert-front-matter-create-wiki-page.png" | absolute_url }})
     
     
 1. Set the title to something meaningful. The title is the thing that will be displayed to wiki readers, so keep it descriptive and sensible.
