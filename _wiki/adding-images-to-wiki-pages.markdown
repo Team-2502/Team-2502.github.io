@@ -37,7 +37,7 @@ This is mildly more complicated
 1. In the wiki page that you wish to add an image to, insert the following Markdown
 
     {% highlight markdown %}
-    ![Description]({{ "/assets/name_of_image.png" | absolute_url}})
+    ![Description](\{\{ "/assets/name_of_image.png" | absolute_url}})
     {% endhighlight %}
     
   Make sure to replace `name_of_image.png` with the filename of your image
