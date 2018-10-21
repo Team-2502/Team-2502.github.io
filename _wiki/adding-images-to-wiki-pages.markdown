@@ -14,7 +14,7 @@ This applies if your image is from an external website, such as Imgur or Chief D
 
     {% highlight markdown %}
     !\[Description of image if image won't load]\(https://example.com/url/to/image/banana.png)
-    {& endhighlight &}
+    {% endhighlight %}
 
 
 ## Adding your own images
