@@ -13,7 +13,7 @@ This applies if your image is from an external website, such as Imgur or Chief D
 1. Type the following into your wiki page, in the location that you want to insert the image
 
     {% highlight markdown %}
-    !\[Description of image if image won't load]\(https://example.com/url/to/image/banana.png)
+    ![Description of image if image won't load](https://example.com/url/to/image/banana.png)
     {% endhighlight %}
 
 
@@ -37,7 +37,7 @@ This is mildly more complicated
 1. In the wiki page that you wish to add an image to, insert the following Markdown
 
     {% highlight markdown %}
-    !\[Description]({{ "/assets/name_of_image.png" | absolute_url}})
+    ![Description]({{ "/assets/name_of_image.png" | absolute_url}})
     {% endhighlight %}
     
-    Make sure to replace `name_of_image.png` with the filename of your image
+  Make sure to replace `name_of_image.png` with the filename of your image
