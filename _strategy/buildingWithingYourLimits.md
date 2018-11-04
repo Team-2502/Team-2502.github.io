@@ -23,9 +23,8 @@ Just because your robot has a feature similar to an elite team doesn't mean your
 
 # The Bandwagon and the Cool Factor
 Essentially, this means doing really dum stuff just because everybody else does it or doing something purely becasue it's "cool." 
-<inset Karthik Kanagasabapathwhogivesacrap quote here pl0x>
 
-Now there's a concrete difference between the bandwagon and differentiating youself. Just because a lot of people do something, doesn't necessarily mean that you are jumping on the bandwagon. For example, in 2017 everyone was able to climb... and for a good reason. If you didn't climb, you were never going to get picked becasue due to how poor of a game it is, one missed climb completely undermines the performance of every other robot in most important matches, such as elimination finals. Yes no yes no???
+Now there's a concrete difference between the bandwagon and differentiating youself. Just because a lot of people do something, doesn't necessarily mean that you are jumping on the bandwagon. For example, in 2017 everyone was able to climb... and for a good reason. If you didn't climb, you were never going to get picked becasue due to how poor of a game it is, one missed climb completely undermines the performance of every other robot in most important matches, such as elimination finals.
 
 Questions Questions?
 
