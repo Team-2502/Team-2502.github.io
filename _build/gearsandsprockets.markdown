@@ -54,7 +54,7 @@ In this equation, C is the number of chain links you will need, E1 is the chain 
 
 # Belts
 
-Belts lightweight and easy to install. However, they come in fixed sizes, requiring you to design around them. As long as you *CAD the darn robot*, this should
+Belts lightweight and easy to install. However, they come in fixed sizes, requiring you to design around them. As long as you *CAD the robot*, this should
 not be an issue. 
 
 There are 2 types of [belts](https://www.vexrobotics.com/vexpro/motion/belts-and-pulleys) that you will probably use: HTD, and GT2. HTD belts have a larger, more coarse profile while the GT2 belts are smaller.
