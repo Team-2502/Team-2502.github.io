@@ -9,6 +9,9 @@ This page is dedicated to common build questions that are not covered in other p
 
 You have a couple options
 
+* Make your own head
+    * Take an oscillating tool/dremel/angle grinder/whatever to the head of the bolt and create a slot
+    * Use a flat head screwdriver to unscrew it
 * Bolt cutters/Hacksaw
     * This will cut the bolt and disconnect the two parts without having to use an allen wrench
     * Requires that a piece of the bolt is exposed
@@ -16,9 +19,6 @@ You have a couple options
     * This involves taking a large drillbit nobody cares about and spending a few minutes drilling out the head of the bolt
     * This stops the bolt from grabbing onto one of the things that it is holding
     * This will dull the drillbit pretty badly
-* Make your own head
-    * Take an oscillating tool/dremel/angle grinder/whatever to the head of the bolt and create a slot
-    * Use a flat head screwdriver to unscrew it
 * Something else
     * More tips on [WikiHow](https://www.wikihow.com/Remove-a-Stripped-Screw)
 
