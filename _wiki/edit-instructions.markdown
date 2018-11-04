@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to add wiki pages (for non-programmers)"
+title:  "How to edit wiki pages"
 category: Meta
 ---
 
