@@ -4,4 +4,4 @@ title:  "Catapults"
 category: Shooters
 ---
 
-Super easy bois. Incredibly reliable. Have fun making it easily adjustable.
+Catapults are robust and easy to design, but lack in rate of fire and adjustability.
