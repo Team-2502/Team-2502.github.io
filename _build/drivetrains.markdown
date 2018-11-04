@@ -4,34 +4,14 @@ title:  "Tank Drive"
 category: Drivetrains
 ---
 
-You should build a tank drive unless there is an extenuating situation, such as a game that effectively makes defense impossible (e.g Recycle Rush). Even then, be careful of weight, and strongly consider doing tank drive for its simplicity.
+Your drivetrain should probably be tank. Why? It’s acceptable in terms of mobility, and is more importantly well above average in weight efficiency and its general resistance to being pushed around. The year they abolish inter-alliance interaction and remove or significantly raise the weight limit is the year tank may no longer be the best option.
 
+Okay, so now you’re using tank. It should probably have 4 CIMs, two per side. Why? Because 6 is overkill when 4 can push around just about any opponent, weighs more (defeating a primary benefit of tank), and is taxing on the electronic aspects of your robot. 2 is equally problematic, as while you may gain the benefit of weight reductions, you lack the necessary torque to push around other robots (defeating a different primary benefit of tank). In a year where one of the two restrictions used to justify tank is removed, but not both, the use of 4 CIMs may become suboptimal; if the weight limit is removed or significantly raised, 6 CIMs may be viable, and if there isn’t any inter-alliance interaction (see 2015), 2 CIMs may be worth considering.
 
-# Types of Tank Drive
+Let’s assume you have tank with 4 CIMs. You don’t need two speeds. Why? Because at a reasonable max speed between 6 and 12 feet per second you still have sufficient torque to push around whoever you need too. Additionally, you will never realistically apply super high speeds to an FRC environment unless the field is entirely open and minimizing some form of cycle times is a priority. Again, in this case, you may decide to disregard this advice given the listed situation.
 
-There are a few types of tank drive that you should be aware of
+Next, wheel layout. You have a couple of options. 4-wheel, 6-wheel, 8-wheel, all in varying setups for center dropping. 4-wheel extends the drive base too far apart causing scrubbing issues, and 8 adds too much weight and reduces the likelihood you’re doing direct drive on the center wheel. For those reasons, I’d encourage you to do 6-wheel. Is it a requirement? Less so than the previous points. Is it still a solid recommendation? Absolutely. You may do as you please with respect to dropping one or more wheels, but I would encourage you to ensure you do something to reduce the length of your drive base in order to eliminate large scrubbing issues.
 
-## 6 wheel dropped center
+Well, now you’ve got 4 CIM, single speed, 6-wheel tank drive. Perfect, you’ve set a good foundation. There are only a couple of other things to decide. Wheel type, and frame dimensions. Wheels are highly game dependent. Depending on field terrain and assigned tasks, wheels anywhere from 4 to 8 inches may be in order. I highly discourage you from extending beyond those end caps with the exception of an EXTREME outlier in the nature of the game (perhaps 2016 is such a game). As far as frame dimensions go, typically err on the side of leaving around an inch in every direction between your perimeter and the sizing restrictions. Vertically you may do as you please, but don’t get TOO close. Acknowledging those two decisions are highly subjective and game dependent, I will elect to not delve into deeper detail.
 
-This is our preferred drivetrain at Talon Robotics. We normally drop the center by 1/8 of an inch. This makes it easier for the robot to turn. However, this can lead to the robot becomming wobbly when it is rather tall, like it was in 2018.
-
-A good example is the drivetrain of Midnight (2016), Herschel/Voyager (2017), or Daedalus (2018).
-
-## 6 wheel flat
-
-Sometimes, having the dropped center on a very tall robot can lead to tippiness and instablity. As a result, it may be a better idea to construct a 6 wheel flat drivetrain. However, to ensure that the ability to turn is not impeded, you *must* put omni wheels in the corners. Otherwise, turning will *always* be inconsistent as far as how it affects absolute robot position goes. If you didn't understand that last sentence, it means that your programmers will be sad if you forget to put your omnis in the corners.
-
-A good example is Cheezy Poof's 2018 robot: Lockdown.
-
-# Considerations to make when designing a drivetrain
-
-## Gear ratio(s)
-
-You will need to select gear ratio(s) on your drivetrain before you order your gear boxes. If you're using a 2-speed transmission, pick a low gear ratio suitable for pushing/defense and a high gear for going fast. The specific gear ratios vary based on the challenge.
-
-More details about selecting gear ratios [here](/build/gearsandsprockets.html)
-
-
-## Number of links of chain
-
-You should try to space your drivetrain holes such that an integer number of chain links is required between each sprocket. More details can be found [here](/build/gearsandsprockets.html)
+Congratulations! You’ve chosen the correct drivetrain. This sets you far on your path towards victory; now you’ve got some other decisions to make in order to ensure MAXIMUM SUCCESS.
