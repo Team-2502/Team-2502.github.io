@@ -6,9 +6,9 @@ category: "Getting Started:"
 Here is where we talk about basic parts, what they look like, and applications for them. Read through this, and then use it as a reference, because these parts will be referred to a lot in the wiki.
 
 ## Tools
-Yes, even something as simple as tools need to be discussed. Crescent wrench, screwdriver, are all easy ones. But when you get into things like step and spade bits, vice (if you are the CMS tech ed teacher), deburrer, side cutters, then it's where people become less familiar with them.
+Yes, even something as simple as tools need to be discussed. Crescent wrenches, screwdrivers, these are the easy ones. However, when you get into things like step and spade bits, deburring methods, side cutters, people become less familiar.
 * Wrenches
-    * **NEVER USE CRESCENT WRENCHES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+    * **NEVER USE CRESCENT WRENCHES!!!**
         * They usually do not fit where you want them to and will round your nut.
 * Socket
    * Like a wrench. Usually comes attached to a ratchet device or drill.
@@ -65,7 +65,7 @@ Used to transfer force. Usually, it is rotational, but using a winch, linear for
 ## Gussets/Brackets
 Used to attach two pieces of metal together. Usually accompanied by rivets or bolts
 
-## Poly Carbonate
+## Polycarbonate
 This is basically plastic. 
 
 ## Rivets
