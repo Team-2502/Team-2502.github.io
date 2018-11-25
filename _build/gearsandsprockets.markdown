@@ -45,14 +45,14 @@ Keep in mind that you must have an integer number of chain links in order to hav
 
 
 {% raw %} 
-$$ C = \frac{2d}{E_1} + \frac{E_2}{2} + \frac{E_3}{2} + \frac{\left( \frac{E_2 - E_3]{2\pi} \right)}{\frac{d}{E_1}}$$
+$$ C = \frac{2d}{p} + \frac{t_1}{2} + \frac{t_2}{2} + \frac{\left( \frac{t_1 - t_2}{2\pi} \right)}{\frac{d}{p}}$$
 {% endraw %} 
 
-In this equation, C is the number of chain links you will need, E1 is the chain pitch in inches (for #35, it is 0.375 inches, for #25, it is 0.25 inches), E2 is the number of teeth on one sprocket, E3 is the number of teeth on the other sprocket, and d is the center-to-center distance between the sprockets. Generally, you will 
+In this equation, \(C\) is the number of chain links you will need, \(p\) is the chain pitch in inches (for #35, it is 0.375 inches, for #25, it is 0.25 inches), \(t_1\) is the number of teeth on one sprocket, \(t_2\) is the number of teeth on the other sprocket, and \(d\) is the center-to-center distance between the sprockets. Generally, you will 
 
 1. Put the sprockets down in the CAD somewhere
 1. Compute the chain equation
-1. Solve for d when C is rounded up/down
+1. Solve for \(d\) when \(C\) is rounded up/down
 1. Move the sprockets in the CAD
 
 
