@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Logging
-categories: General
+title: Logging (Old)
+categories: Old/Deprecated
 ---
+
+This pertains to Donovan's custom logger that we no longer use.
+
 # Logging
 
 When programming it is important to log data. This let's you print debug values, give the user information, print errors, and many other things.
