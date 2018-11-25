@@ -1,11 +1,11 @@
 ---
 layout: post
-title: GitHub Instructions
+title: GitHub Workflow Description
 category:
 ---
 # Branching
 
-Unlike 2017, you are *not* allowed to have a personal branch. Any such branch will immediately be deleted. There are only 3 types of branches:
+Since 2017, you are *not* allowed to have a personal branch. Any such branch will immediately be deleted. There are only 3 types of branches:
 
 * `master`
 
@@ -46,7 +46,9 @@ You can merge any branch into these branches, and you can merge these branches i
 
 At competition or other event where the robot is being driven,
 
-* Initially, *you must deploy from* `master` *branch. It is the responsibility of all the programmers to ensure that master has the latest tested code*
+* On practice day, code from the `master` branch is deployed, unless `develop` has significant improvements.
+
+    * If problems are found in `develop` and they cannot be fixed, deploy from `master` instead.
 
 * If code changes are required at an event, follow this plan
 
