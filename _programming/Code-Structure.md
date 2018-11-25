@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Structure
+title: Package Structure
 categories: Meta
 ---
 # Subsystems
