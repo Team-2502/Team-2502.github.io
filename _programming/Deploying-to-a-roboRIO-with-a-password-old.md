@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Deploying to a roboRIO with a password
-category: Deploy
+category: Old/Deprecated
 ---
+
+This talks about the antiquated Ant build system, which was phased out in 2019. 
+
 A password has been set on the RoboRIO. This makes it so that, with the default build configuration, it is impossible to deploy. However, this is an easy problem to fix for the time being.
 
 ## Step 1: Open build.properties
