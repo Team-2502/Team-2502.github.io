@@ -39,9 +39,14 @@ matters, such as the drivetrain and climbers.
 
 Keep in mind that you must have an integer number of chain links in order to have properly tensioned chain. By properly tensioning your chain, you ensure that there is little to no backlash in the system (backlash is when you can rotate 1 sprocket/gear without moving the other sprocket/gear when the two are connected). To calculate the number of chain links you will need to use, you can use the following equation.  
 
-
+{% comment %} 
 ![Chain Equation](https://i.imgur.com/rIH5xBA.png)
+{% endcomment %} 
 
+
+{% raw %} 
+$$ C = \frac{2d}{E_1} + \frac{E_2}{2} + \frac{E_3}{2} + \frac{\left( \frac{E_2 - E_3]{2\pi} \right)}{\frac{d}{E_1}}$$
+{% endraw %} 
 
 In this equation, C is the number of chain links you will need, E1 is the chain pitch in inches (for #35, it is 0.375 inches, for #25, it is 0.25 inches), E2 is the number of teeth on one sprocket, E3 is the number of teeth on the other sprocket, and d is the center-to-center distance between the sprockets. Generally, you will 
 
