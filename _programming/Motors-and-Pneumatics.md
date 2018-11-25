@@ -4,21 +4,21 @@ title: Motors and Pneumatics
 category: WPILib
 ---
 # Talons
-First, import `com.ctre.CANTalon`
+First, import `com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX`
 
 To create a talon:
 
-`CANTalon someTalon = new CANTalon(RobotMap.Motor.SOMETALON)`
+`WPI_TalonSRX someTalon = new WPI_TalonSRX(RobotMap.Motor.SOMETALON)`
 
 Instantiate the CANTalon class, passing in an `int` for the Talon ID into the constructor. Please put this `int` in `RobotMap.Motor` so that we can easily check what the talon ID's are supposed to be.
 
 To drive a talon
 
-`someTalon.set(amount)`
+`someTalon.set(controlMode, value)`
 
-`amount` does different things based on what the control mode is.
+`amount` does different things based on what `controlMode` is.
 
-For more details, look at the CANTalon javadoc at [this URL](http://www.ctr-electronics.com/downloads/api/java/html/com/ctre/CANTalon.html).
+For more details, look at the CANTalon javadoc at [this URL](http://www.ctr-electronics.com/downloads/api/java/html/com/ctre/phoenix/motorcontrol/can/WPI_TalonSRX.html).
 
 # Solenoids
 
