@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Motion Profiling
-category:
+title: Motion Profiling (Old)
+category: Old/Deprecated
 ---
 # This wiki page is a work in progress
 
