@@ -9,7 +9,8 @@ title: Day 1
 - _question_
 
 ## Vision
-- Generally **FPS > resolution**... 60FPS 420p would be sweet. This is true both for human (can track target) and 
+- Generally **FPS > resolution**... 60FPS 480p would be sweet. It takes 2.5-3 Mbps 
+when compressed and 60FPS is MUCH better than 30FPS. This is true both for human (can track target) and 
 computer vision (less delay in feedback loop).
 
 ### Computer Vision  
