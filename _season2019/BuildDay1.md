@@ -9,6 +9,9 @@ title: Day 1
 - _question_
 
 ## Vision
+- Generally **FPS > resolution**... 60FPS 420p would be sweet. This is true both for human (can track target) and 
+computer vision (less delay in feedback loop).
+
 ### Computer Vision  
 #### Vision Targets
 ![Vision targets](https://i.imgur.com/e62fNmw.jpg)
@@ -32,7 +35,6 @@ also...
 - most video cameras do not, by default, compress to the level we would want.
   - we will want a co-processor to compress the footage before we send it.
   - [reference for YouTube recommended bitrates](https://support.google.com/youtube/answer/2853702?hl=en)
-- Generally **FPS > resolution**... 60FPS 420p would be optimal
 - Shuffleboard does not have a full-screen camera widget
   1. _Should we make a custom Shuffleboard widget?_
   2. _Should we make a custom dashboard for a camera? (this is allowed)_
@@ -40,7 +42,9 @@ also...
 
 ### Questions
 - _Should we use an Android device as the co-processor and camera?_
+- _Should the human vision camera be the same as the vision camera_?
 - _Do we want multiple human vision cameras?_ (would need switching mechanism so bitrate doesn't RIP)
+- _Do we want a fish-eye lens? Might be esp useful if we don't have multiple cameras_.
 - _Do we want a psuedo-birds-eye view_? (might be challenging to get working correctly)
 ![psuedo-birds-eye view](https://i.imgur.com/ohKuoT7.jpg)
 
