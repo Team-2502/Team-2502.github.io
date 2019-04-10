@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gears, Sprockets, and Belts"
-category: General Mechanics
+category: General
 ---
 
 So you want to transfer rotational motion? You have 3 options at your disposal: gears, sprockets, or belts

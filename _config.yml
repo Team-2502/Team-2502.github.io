@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Talon Robotics Wiki
-email: mail@team2502.com
+email: captains@team2502.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Talon Robotics Wiki.
   This site is intended to serve
