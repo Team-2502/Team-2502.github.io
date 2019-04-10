@@ -24,7 +24,7 @@ Gear ratios come in the form of `driver gear:driven gear`. For example, if I hav
 
 A gear ratio that is greater than 1 maximizes the amount of torque that is output. In contrast, a gear ratio that is less than 1 maximizes the speed of the output gear. By increasing torque, you increase the amount of force required to slow/stop the gears. By increasing speed, you go faster.
 
-When picking a 2-speed drivetrain, it is conventional for us to pick a "high gear ratio" (less than 1) and "low gear ratio" (greater than 1). 
+When picking a 2-speed drivetrain, it is conventional for us to pick a "high gear ratio" (less than 1) and "low gear ratio" (greater than 1). Vex has a spreadsheet to calculate gear ratios as needed. 
 
 
 # Sprockets
@@ -34,7 +34,7 @@ This is because installing chain on sprockets generally requires the use of a ma
 
 If you pretend the robot is a bicycle and install a derailleur, you are officially crazy and should _really truly for real_  be using gears instead.
 
-There are 2 kinds of chain: #25 pitch and #35 pitch. #25 pitch chain is smaller, weaker, and lighter, while #35 pitch is larger, stronger, and heavier. Use #35 pitch chain in applications where strength 
+There are 2 kinds of chain that we use: #25 pitch and #35 pitch. #25 pitch chain is smaller, weaker, and lighter, while #35 pitch is larger, stronger, and heavier. Use #35 pitch chain in applications where strength 
 matters, such as the drivetrain and climbers.
 
 Keep in mind that you must have an integer number of chain links in order to have properly tensioned chain. By properly tensioning your chain, you ensure that there is little to no backlash in the system (backlash is when you can rotate 1 sprocket/gear without moving the other sprocket/gear when the two are connected). To calculate the number of chain links you will need to use, you can use the following equation.  
@@ -64,6 +64,8 @@ not be an issue.
 
 There are 2 types of [belts](https://www.vexrobotics.com/vexpro/motion/belts-and-pulleys) that you will probably use: HTD, and GT2. HTD belts have a larger, more coarse profile while the GT2 belts are smaller.
 
+If your belts keep snapping/slipping, it is time to consider upgrading to sprockets. 
 
+Belts may need to be tensioned and this can be easily accomplished with a bearing or two on a bolt. 
 
-If your belts keep snapping/slipping, it is time to consider upgrading to sprockets.
+Belts take lots of wear and tear so a few extras can never hurt. 

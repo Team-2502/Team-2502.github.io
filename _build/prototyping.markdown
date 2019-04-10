@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prototyping"
-category: "Getting Started:"
+category: Getting Started
 ---
 
 # Prototyping
