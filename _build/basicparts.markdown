@@ -126,7 +126,7 @@ Everything you would want to know about the shafts we mainly use in the room. Ev
     
 
 ## Springs and Surgical Tubing
-When you stretch it, it wants to go back to being unstretched, creating a pulling force. Surgical tubing can be used to assist another form of a pulling force, such has an active or linear slide.
+When you stretch it, it wants to go back to being unstretched, creating a pulling force. Surgical tubing can be used to assist another form of a pulling force, such has an active or linear slide. Another type of spring that can assist motors are constant force springs, like the spring in a measuring tape. Constant force springs apply a constant force that can be rotational or vertical. This force makes less work for the motor so less torque can bee needed by the motor. 
 
 ## Poly cord and Pulleys
 Used to transfer force. Usually, it is rotational, but using a winch, linear force can also be transferred. Poly cord can be used as belts to move game elements through the robot as well. 
