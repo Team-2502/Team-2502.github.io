@@ -8,7 +8,7 @@ Here is where we talk about basic parts, what they look like, and applications f
 ## Tools
 Yes, even something as simple as tools need to be discussed. Crescent wrenches, screwdrivers, these are the easy ones. However, when you get into things like step and spade bits, deburring methods, side cutters, people become less familiar.
 * Wrenches
-    * **NEVER USE CRESCENT WRENCHES!!!**
+    * NEVER USE CRESCENT WRENCHES!!!
     * They usually do not fit where you want them to and will round your nut.
     * The common sizes can be found in their seperate containers. 
     * 7/16 is commonly used for 1/4-20 nuts and 3/8 is commonly used for 10-32 nuts
@@ -51,6 +51,26 @@ Yes, even something as simple as tools need to be discussed. Crescent wrenches, 
       * Like a circular saw but is not handheld. Only goes up and down.
       * We only have wood blades for it but it makes straight cuts.
       * Make sure a piece is clamped using the clamp whenever you are cutting.
+    * Oscillating Tool
+      * A tool used for cutting metal or plastic.
+      * Make sure piece is really secure so it does not oscillate with the tool.
+      * This is used mainly for parts on the robot that move a lot or are hard to reach with other tools. 
+    * Dremel
+      * Pretty much all the same uses as the oscillating tool.
+      * Cutting wheels are disposable and will break after many uses. 
+    * Slotting Tool
+      * This tool is used for enlarging holes
+      * The bit of this tool breaks if the tool is not perfectly level.
+      * This tool will also jump a lot so be careful when using. 
+* Other Tools
+    * Soldering Iron
+        * Used for soldering wires together.
+        * Make sure wires are held together before applying the solder.
+        * Heat the wires before applying the solder. 
+    * Pneumatic tools
+        * We mainly use the air blower.
+        * Don't point the air blower at people.
+        * Blow out electronics after working on the robot so nothing is shorted. 
 
 ## Bearings
 If we were to stick a hex shaft in a hole and spin it, it would become round. Bearings decrease the friction of rotating objects and prevent our hex shaft from becoming a round shaft. Bearings are also used for round shafts to reduce friction between spinning things. Hex shafts are used more commonly because of other advantages of the shaft to be discussed later on. 
@@ -95,12 +115,18 @@ Everything you would want to know about the shafts we mainly use in the room. Ev
 * Banebot Wheels
     * Similar to Colson wheels, but slightly less durable. 
     * These come in more sizes then Colsons. 
-    * In bigger sizes hubs need to be ordered seperately.
+    * In bigger sizes hubs need to be ordered separately.
     * Used for actives and internal game element movement almost exclusively.
+* Tread Wheels
+    * These are pretty much only used on the drive train.
+    * They are a hub with tread wrapped around it.
+    * Tread and hub can be ordered together or separate. 
+    * The type of tread determines the traction.
+    * Tread can be attached with rivets or tread clips.
     
 
 ## Springs and Surgical Tubing
-When you stretch it, it wants to go back to being unstretched, creating a pulling force. It works like a spring and can be used to assist another form of a pulling force. 
+When you stretch it, it wants to go back to being unstretched, creating a pulling force. Surgical tubing can be used to assist another form of a pulling force, such has an active or linear slide.
 
 ## Poly cord and Pulleys
 Used to transfer force. Usually, it is rotational, but using a winch, linear force can also be transferred. Poly cord can be used as belts to move game elements through the robot as well. 
