@@ -6,7 +6,7 @@ category: Bumpers
 
 Here is what to do and what not to do while building bumpers. 
 
-**Do Not Make Reversible Bumpers:** They seem easier to switch but they are harder to make and down in the mounting section there is a way to mount the bumpers that is easy to change while still being strong. Therefore, there is no point to reversible bumpers. 
+**Do Not Make Reversible Bumpers:** The main reason to make them is so they can be mounted strong but still be easy to change. However, they are harder to make and down in the mounting section there is a way to mount the bumpers that is easy to change while still being strong. Therefore, there is no point to reversible bumpers. 
 
 ## Materials needed 
 Materials are minimums for 3 sets of bumpers. and there are left overs so check quantities of what's in stock before ordering more. Most items can be found at Menard's. Also confirm that bumper rules have not changed before ordering all the materials. 
