@@ -9,27 +9,27 @@ Here is what to do and what not to do while building bumpers.
 **Do Not Make Reversible Bumpers:** The main reason to make them is so they can be mounted strong but still be easy to change. However, they are harder to make and down in the mounting section there is a way to mount the bumpers that is easy to change while still being strong. Therefore, there is no point to reversible bumpers. 
 
 ## Materials needed 
-Materials are minimums for 3 sets of bumpers. and there are left overs so check quantities of what's in stock before ordering more. Most items can be found at Menard's. Also confirm that bumper rules have not changed before ordering all the materials. 
+Materials are minimums for 3 sets of bumpers. and there are left overs so check quantities of what's in stock before ordering more. Most items can be found at Menard's. Also confirm that bumper rules have not changed before ordering all the materials. Quantities are suggestions so review how it will be used before buying.
 - Fabric
-- [ ] Fabric in Blue, Red, and Black
+    - Fabric in Blue, Red, and Black
 - Numbers
-- [ ] Numbers (See below for how you want to do numbering)
+    - Numbers (See below for how you want to do numbering)
 - Wood
-- [ ] 72" 2x2 1/8” angle
-- [ ] 72 1/4-20 3/4” bolts (any kind of flattened head will work)
-- [ ] 4’ by 8’ 3/4” Plywood cut into 5" strips
-- [ ] 72 1/4” T-Nuts
-- [ ] 3/4” x 1/16” angle (This is an optional item)
+    - 72" 2x2 1/8” angle
+    - 72 1/4-20 3/4” bolts (any kind of flattened head will work)
+    - 4’ by 8’ 3/4” Plywood cut into 5" strips
+    - 72 1/4” T-Nuts
+    - 3/4” x 1/16” angle (This is an optional item)
 - Pool Noodles
-- [ ] Pool Noodles (~6 per bumper set but is based on frame perimeter)
+    - Pool Noodles (~6 per bumper set but is based on frame perimeter)
 - Mounting
-- [ ] 72" 1x1 1/8” angle 
-- [ ] 40 3/4” wood screws 
-- [ ] 72"   2” by 1/8” plate 
-- [ ] Wood screws couple inches long (We have a lot of these and they can be kind of anything as long as the heads are a small width)
-- [ ] 2 1/2” pins to 3” pins (These are reused from year to year but we can always use more)
+    - 72" 1x1 1/8” angle 
+    - 40 3/4” wood screws 
+    - 72"   2” by 1/8” plate 
+    - Wood screws couple inches long (We have a lot of these and they can be kind of anything as long as the heads are a small width)
+    - 2 1/2” pins to 3” pins (These are reused from year to year but we can always use more)
 - Repairs
-- [ ] 2 rolls Red, Blue, and Black duct tape
+    - 2 rolls Red, Blue, and Black duct tape
 
 
 ## Fabric
