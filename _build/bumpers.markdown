@@ -52,7 +52,7 @@ Wood should be cut into 5" strips as long as the bumper rules don't change. This
 
 When cutting the wood and pool noodles draw out the bumpers with wood and noodles including thickness. This allows you to do the math to figure out how the wood will fit in the angle an make sure everything is long enough and fits on the robot. 
 
-##Pool Noodles
+## Pool Noodles
 Pool Noodles can really be anything as long as they are around 2.5 inch thick. The standard size is 2 3/8" and this works fine for the bumpers. 2 are needed in each bumper and they should be consistent through out the bumpers. 
 
 Pool noodles are fairly cheap in bulk and since they are needed every year it is easy to get mentor approval for large orders. They are cheapest to order right at the end of summer just don't wait too long or they are out of stock. 
