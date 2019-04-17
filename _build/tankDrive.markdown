@@ -4,6 +4,8 @@ title:  "Tank Drive"
 category: Drive Trains
 ---
 
+
+
 Your drive train should probably be tank. Why? It’s acceptable in terms of mobility, and is more importantly well above average in weight efficiency and its general resistance to being pushed around. The year they abolish inter-alliance interaction and remove or significantly raise the weight limit is the year tank may no longer be the best option.
 
 Okay, so now you’re using tank. It should probably have 4 CIMs, two per side. Why? Because 6 is overkill when 4 can push around just about any opponent, weighs more (defeating a primary benefit of tank), and is taxing on the electronic aspects of your robot. 2 is equally problematic, as while you may gain the benefit of weight reductions, you lack the necessary torque to push around other robots (defeating a different primary benefit of tank). In a year where one of the two restrictions used to justify tank is removed, but not both, the use of 4 CIMs may become suboptimal; if the weight limit is removed or significantly raised, 6 CIMs may be viable, and if there isn’t any inter-alliance interaction (see 2015), 2 CIMs may be worth considering.
