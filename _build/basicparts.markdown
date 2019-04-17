@@ -99,7 +99,6 @@ Everything you would want to know about the shafts we mainly use in the room. Ev
     * They are only not needed when the shaft is full with spacers and wheels or other objects. The collar can then be replaced but a washer and bolt on the end of the shaft.
 
 ## Wheels
-* Traction Wheels
 * Omni Wheels
     * Has rollers parallel to the wheel (look at an image).
     * This allows the wheel to slide sideways.
@@ -117,7 +116,7 @@ Everything you would want to know about the shafts we mainly use in the room. Ev
     * These come in more sizes then Colsons. 
     * In bigger sizes hubs need to be ordered separately.
     * Used for actives and internal game element movement almost exclusively.
-* Tread Wheels
+* Tread/Traction Wheels
     * These are pretty much only used on the drive train.
     * They are a hub with tread wrapped around it.
     * Tread and hub can be ordered together or separate. 
