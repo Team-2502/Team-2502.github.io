@@ -6,15 +6,16 @@ category: Drive Trains
 
 A mecanum drive train uses mecanum wheels to allow robots to move sideways. Mecanum wheels have rollers at a 45 degree angle to the wheel. There are left and right mecanum wheels and both are needed for drive trains or active intakes. The left or right determines what direction the rollers move. A mecanum drive train has four of these wheels and they are each driven independently. If they are not driven independently you might as well do tank drive. 
 
-Pros:
+#### Pros:
 * Mobility 
     - Able to move around the field fast
     - Moves Sideways so lining up is easier
 * Fairly Easy to build
     - It is four wheels 
     - As long as you get the wheels spaced right and have space for gearboxes you are good
+    - You can gear the drive train to go different speeds easily
 
-Cons: 
+#### Cons: 
 * You will get pushed around
     - Anyone with tank drive can push you
     - You can be pushed sideways
