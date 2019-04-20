@@ -4,7 +4,7 @@ title:  "Mecanum Drive"
 category: Drive Trains
 ---
 
-A mecanum drive train uses mecanum wheels to allow robots to move sideways. Mecanum wheels have rollers at a 45 degree angle to the wheel. There are left and right mecanum wheels and both are needed for drive trains or active intakes. The left or right determines what direction the rollers move. A mecanum drive train has four of these wheels and they are each driven independently. If they are not driven independently you might as well do tank drive. 
+A mecanum drive train uses mecanum wheels to allow robots to move sideways. Mecanum wheels have rollers at a 45 degree angle to the wheel, bought [here](https://www.vexrobotics.com/mecanum-wheels.html). There are left and right mecanum wheels and both are needed for drive trains or active intakes. The left or right determines what direction the rollers move. A mecanum drive train has four of these wheels and they are each driven independently. If they are not driven independently you might as well do tank drive. 
 
 #### Pros:
 * Mobility 
