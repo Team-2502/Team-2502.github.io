@@ -19,7 +19,7 @@ A mecanum drive train uses mecanum wheels to allow robots to move sideways. Meca
 * You will get pushed around
     - Anyone with tank drive can push you
     - You can be pushed sideways
-    - This means that you probably will not be picked at worlds. 
+    - You will be less likely to get drafted at Worlds 
 * There is a bit of a challenge in programming
     - You have to no how to move the wheels to get to the spot you want
     - Once you get the program it is probably don

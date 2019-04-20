@@ -15,6 +15,7 @@ A holonomic drive train has 4 wheels in the corners. Each wheel is at a 45 degre
 #### Cons:
 * No pushing force
     * The wheels do not have traction so they slide in every direction
+    * You will be less likely to get picked at worlds
 * Challenging to program and drive
     * Does not necessarily drive straight
     * The controls are different then tank drive driving
