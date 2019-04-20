@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Parts"
-category: Getting Started
+category: General
 ---
 Here is where we talk about basic parts, what they look like, and applications for them. Read through this, and then use it as a reference, because these parts will be referred to a lot in the wiki.
 

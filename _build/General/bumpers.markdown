@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bumpers"
-category: Bumpers
+category: General
 ---
 
 Here is what to do and what not to do while building bumpers. 
@@ -14,7 +14,7 @@ Materials are minimums for 3 sets of bumpers. and there are left overs so check 
     - Fabric in Blue, Red, and Black
 - Numbers
     - Numbers (See below for how you want to do numbering)
-- Wood
+- Wood/Fastening Wood
     - 72" 2x2 1/8” angle
     - 72 1/4-20 3/4” bolts (any kind of flattened head will work)
     - 4’ by 8’ 3/4” Plywood cut into 5" strips
