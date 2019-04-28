@@ -39,6 +39,8 @@ Fabric should not rip and should last an entire season. We have found two fabric
 
 [Sports Twill](https://twillusa.com/product/polyback-sports-twill/) is a slicker material. Our team used these for practice bumpers so application to competition robot is unknown. The fabric held up well to the stresses of practice. Numbering can be easier but the more time put in to the numbers the longer they will stay. Suggested colors for ordering are red and royal blue. Practice bumpers can be in any color but Black generally looks pretty good. 
 
+When stapling the fabric to the wood, make sure to pull it tight. The fabric looks best if you line it up then staple the ends. After stapling the ends staple along all the flat sides but leave some room on corners. Fold the corners in so they look nice and uniform, similar to wrapping a present. Then staple down the corner so it will stay nicely wrapped. Cut inside corners as needed to make sure the bumper is flush.
+
 
 
 ## Numbers
