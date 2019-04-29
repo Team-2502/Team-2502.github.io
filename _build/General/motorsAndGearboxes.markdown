@@ -33,4 +33,4 @@ They have one input motor can can bought in many gear ratios. A Versa Planetary 
 This works if you are unable to find the desired speeds for a two speed. This is also a simpler gearbox and it would have less failure points. The target drive train speed would be around 10 - 12 ft/sec. 
 
 ## Two Speed
-The main advantage is that you would have a speed that is low enough for torque to push and a speed high enough to drive across the field quickly with control. Usually you shoot for 5 ft/sec low speed and 15 ft/sec high speed in the drive train gearbox. These can change depending on the game and what you want from the gearbox. 
+The main advantage is that you would have a speed that is low enough for torque to push and a speed high enough to drive across the field quickly with control. Usually you shoot for 5 ft/sec low speed and 15 ft/sec high speed in the drive train gearbox. These can change depending on the game and what you want from the gearbox. In a lot of games the top speed is too fast so a single speed is acceptable when there is not a wide open field. 
