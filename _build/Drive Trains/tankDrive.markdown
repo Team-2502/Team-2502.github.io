@@ -11,7 +11,7 @@ A tank drive is a drive train with traction wheels that are all facing the same 
     * It is only two gearboxes(one for each side)
     * We have done it before so we have CAD models and gearboxes
 * Easy to drive
-    * This can be driven with one joy stick to control each side
+    * It can be driven with virtually any control scheme you can think of
     * This makes it very intuitive for a rookie driver to pick up
 * Potential for high speed and pushing force
     * Easy to gear the wheels for whatever pushing and speed is needed. 
