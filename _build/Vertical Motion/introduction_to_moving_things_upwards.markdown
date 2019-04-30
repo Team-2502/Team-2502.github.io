@@ -48,7 +48,7 @@ Sometimes, you may only wish to move pieces from the front to the back when your
 continuous elevator, at stage boundaries). This will require a relatively thin elevator with a long wristed active intake, so that at the top, the wrist
 can rotate 180 degrees. It is hard to describe in words, but some good examples include
 - 195 from 2018
-- [1619 from 2018](https://youtu.be/k3w4hPvwMqI)
+- [1619 from 2018](https://youtu.be/k3w4hPvwMqI?t=36)
 
 #### Bearings
 
@@ -58,15 +58,18 @@ See [the 973 guide to an elevator](https://www.youtube.com/watch?v=wZ6a6dc4BGg) 
 
 ##### Buying tiny circle bore bearings
 
-Bearings are a very often used part in many industries. You could buy them off of McMaster, but other places sell tiny bearings that
-are cheaper, such as [vxb.com](http://vxb.com).
+Bearings are a very often used part in many industries. You could buy them off of McMaster, but other places sell tiny bearings that are a little cheaper, such as [vxb.com](http://vxb.com). A .25" bore will easily slide onto a 1/4-20 bolt or an appropriate shoulder bolt (#10-24 with a 1/4 inch shank). In contrast, a 3/16" bore will be an extremely tight fit onto a #10-32 bolt. You may need to sand 1 or 2 thou off the bolt diameter to get it to fit. 
 
 
 #### Counterbalancing
 
-You should use a constant force spring. If you are using a continuous elevator, you may need one (or two, to apply force evenly to both sides and avoid applying
+You should use a constant force spring for an elevator. If you are using a continuous elevator, you may need one (or two, to apply force evenly to both sides and avoid applying
 a torque) CFS's per stage. You can buy them from Vulcan Spring, and in 2018, they offered 6 free springs per FIRST, so check to see if they still have that before paying
 cash.
+
+#### Misc. tips
+
+- If possible, attach the string to the metal parts using inline spri
 
 ## Arm
 
@@ -88,7 +91,7 @@ where {% raw %} $$ d $$ {% endraw %} is the distance of the center of mass of th
 
 Therefore, to properly counterbalance the arm, you will likely need software-based motor control (put an encoder on the rotation shaft!!) in addition to
 mechanical counterbalancing. Note that a typical coil spring will increase the amount of force it exerts linearly with respect to how much it is extended,
-so you may choose yo use it over a constant force spring. Just make sure that your spring constant isn't too high.
+so you may choose to use it over a constant force spring. Just make sure that your spring constant isn't too high; you want precise control of the arm, not a situation where the spring pulls the arm back when it is almost upright.
 
 
 
@@ -96,4 +99,6 @@ so you may choose yo use it over a constant force spring. Just make sure that yo
 
 A pink arm is an arm that also can extend out. It is named after the Pink Team (233) who built them often in the mid 2000's. Some good recent examples
 include 610 from 2019 and 2481 from 2018.
+
+This is certainly not within our team's limits.
 
