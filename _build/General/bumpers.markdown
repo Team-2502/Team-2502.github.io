@@ -39,7 +39,7 @@ Fabric should not rip and should last an entire season. We have found two fabric
 
 [Sports Twill](https://twillusa.com/product/polyback-sports-twill/) is a slicker material. Our team used these for practice bumpers so application to competition robot is unknown. The fabric held up well to the stresses of practice. Numbering can be easier but the more time put in to the numbers the longer they will stay. Suggested colors for ordering are red and royal blue. Practice bumpers can be in any color but Black generally looks pretty good. 
 
-When stapling the fabric to the wood, make sure to pull it tight. The fabric looks best if you line it up then staple the ends. After stapling the ends staple along all the flat sides but leave some room on corners. Fold the corners in so they look nice and uniform, similar to wrapping a present. Then staple down the corner so it will stay nicely wrapped. Cut inside corners as needed to make sure the bumper is flush.
+When stapling the fabric to the wood, make sure to pull it tight. The fabric looks best if you line it up then staple the ends. After stapling the ends staple along all the flat sides but leave some room on corners. Fold the corners in so they look nice and uniform, similar to wrapping a present. Then staple down the corner so it will stay nicely wrapped. Cut inside corners as needed to make sure the bumper is flush. While stapling be aware of where people's hands are so you don't staple them. There are some safety features but staples will come out the side of the wood so give a bit of space. 
 
 
 
@@ -47,6 +47,7 @@ When stapling the fabric to the wood, make sure to pull it tight. The fabric loo
 For 2018 and the beginning of 2019 we used [vinyl](https://www.seattlefabrics.com/54-Insignia-Cloth-Adhesive-Backed-Polyester-1995-linear-yard_p_60.html) this worked for smooth fabrics such as the sports twill. However it peels a lot on rougher fabrics like the AndyMark fabric. If it is peeling hot glue can be used for repairs.
 
 In 2019 Connie suggested using [Stich witchery]() this was used on the AndyMark material for worlds's bumpers. A white cloth would have to be bought to be stuck to the fabric. This is very time consuming because of the stitching that needs to be done around the border to secure it. 
+
 
 
 ## Wood
