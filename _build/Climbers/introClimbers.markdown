@@ -20,3 +20,4 @@ There are multiple kinds of climbers that you can make. Some are better than oth
 * You want to design the hook to not come off after being put on the bar.
 * This is really light and will generally look really sketchy.
 * This can be really quick especially if it spring loaded.
+* It can be difficult to control the hook depending on how it is delivered.
