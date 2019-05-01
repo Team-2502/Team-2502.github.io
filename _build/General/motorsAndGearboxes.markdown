@@ -17,7 +17,7 @@ These are used for the drive train and climbers. These motors are a little slowe
 
 
 ## Window Motors
-
+These are geared for torque instead of speed. Therefore these motors are really slow. They do have some power but the gearboxes have plastic gears and should not be trusted with much load. Extras should be bought and expect to replace them. The amount of replacing is dependant on how much impact is put on the motors.
 
 ## Banebots
 
