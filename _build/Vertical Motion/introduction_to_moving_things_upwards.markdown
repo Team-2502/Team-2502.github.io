@@ -90,8 +90,10 @@ given {% raw %} $$ \theta $$ {% endraw %} is the angle of the arm from the horiz
 where {% raw %} $$ d $$ {% endraw %} is the distance of the center of mass of the arm from the pivot (you can use CAD to figure this out; just make it detailed)
 
 Therefore, to properly counterbalance the arm, you will likely need software-based motor control (put an encoder on the rotation shaft!!) in addition to
-mechanical counterbalancing. Note that a typical coil spring will increase the amount of force it exerts linearly with respect to how much it is extended,
-so you may choose to use it over a constant force spring. Just make sure that your spring constant isn't too high; you want precise control of the arm, not a situation where the spring pulls the arm back when it is almost upright.
+mechanical counterbalancing. Note that a typical coil spring/gas shock will increase the amount of force it exerts linearly with respect to how much it is extended,
+so you should use it over a constant force spring. Just make sure that your spring constant (spring stiffness, units are in newtons/meter or pounds/feet) isn't too high; you want precise control of the arm, not a situation where the spring pulls the arm back when it is almost upright. 
+
+Don't be afraid to use physics (i.e free body diagrams) to help you in this respect. It will drastically improve the build quality.
 
 
 
