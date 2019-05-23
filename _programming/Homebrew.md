@@ -22,6 +22,12 @@ Open Terminal and execute the following command
 
 `curl https://gist.githubusercontent.com/MDW01/ce080fa5275d646de35156ab16497de0/raw/d26f701712907eb68ed12b9f914a83c9da825477/install.rb >> install.rb && chmod +x install.rb && ./install.rb`
 
+# Attempted Fix for Deprecated /homebrew
+
+Open Terminal and execute the following command
+
+`curl https://gist.githubusercontent.com/ryandalex1/0822d9e2c0b7bbeafbf9bead007e0791/raw/35d339b2ff40e245ad9e0abf0796d759aaa32703/install.rb >> install.rb && chmod +x install.rb && ./install.rb`
+
 # Installing Homebrew Manually
 
 [Download](https://gist.github.com/skyl/36563a5be809e54dc139) the script
