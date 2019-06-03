@@ -16,13 +16,7 @@ Homebrew is
 
 You will need to have agreed to the XCode TOS to be able to install homebrew.
 
-# Installing Homebrew 
-
-Open Terminal and execute the following command
-
-`curl https://gist.githubusercontent.com/MDW01/ce080fa5275d646de35156ab16497de0/raw/d26f701712907eb68ed12b9f914a83c9da825477/install.rb >> install.rb && chmod +x install.rb && ./install.rb`
-
-# Attempted Fix for Deprecated /homebrew
+# Installing Homebrew
 
 Open Terminal and execute the following command
 
