@@ -6,7 +6,7 @@ permalink: /scouting
 
 These are all the wiki pages related to scouting
 
-{% assign groups = site.strategy | group_by: "category" | sort: "name" %}
+{% assign groups = site.scouting| group_by: "category" | sort: "name" %}
 {% for group in groups %}
 {% if group.name != "" %}
 #### {{ group.name}}
