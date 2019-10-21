@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Making a JavaDoc for Your Special Code
-category:
+title: Using JavaDoc
+category: General
 ---
-We are the programming **team**. We are called a team for a reason -- we must work together to program the robot. As such, different people take on different tasks, such as creating automatic shifting, making an autonomous, making the shooter subsystem, etc.
+In the event that another person must use or read your code, they must be able to easily understand how it works.
 
-In the event that another person must use your subsystem, command, or whatever else you have created, they must understand how it works. Normally, they would ask you how your thing works. However, it is inconvenient and time-consuming to interact with another person.
-
-In this wiki page, I present 5 easy ways to make it clear what your thing does, focusing on JavaDoc related items.
+Using JavaDoc is a nice way to make your code easily readable.
 
 # JavaDoc
 
