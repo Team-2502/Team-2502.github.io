@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Programming
-categories: General
+categories: Old/Deprecated
 ---
 ## Welcome potentially future programmers!
 #### Before you set your eyes on being a programmer, it is important to understand:
