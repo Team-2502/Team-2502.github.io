@@ -4,8 +4,6 @@ title: Day 1
 categories: Java Guide
 ---
 
-# Day 1
-
 ## Variables:
 To store a value in Java one uses a variable. A variable assigns a value to a name. For example, to store the number of cats I owned I could declare a variable `catsOwned` to hold this value using the following syntax.
 
