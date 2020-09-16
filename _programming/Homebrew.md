@@ -18,7 +18,7 @@ You will need to have agreed to the XCode TOS to be able to install homebrew.
 
 # Installing Homebrew
 
- ## For older MacBooks(2013)
+## For older MacBooks(2013)
 Open Terminal and execute the following command
 
 `curl https://gist.githubusercontent.com/ryandalex1/0822d9e2c0b7bbeafbf9bead007e0791/raw/35d339b2ff40e245ad9e0abf0796d759aaa32703/install.rb >> install.rb && chmod +x install.rb && ./install.rb`
